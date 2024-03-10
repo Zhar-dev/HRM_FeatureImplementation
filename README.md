@@ -1,4 +1,4 @@
-# Human Restaurant Management - EcoFriendly Tracker
+# Human Resource Management - EcoFriendly Tracker
 ### This project topic was using a Database of Human Resource Management and Integrating a feature, the feature I integrated is Eco Friendly Tracker, this feature track the precentage of Eco Participation, Job Satisfaction, Work Life Balance nad Sense of Purpose this data were collect using form for employees.
 --- 
 ## Features
